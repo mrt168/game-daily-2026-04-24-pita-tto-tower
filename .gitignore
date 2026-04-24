@@ -1,0 +1,8 @@
+node_modules/
+tests/*.json
+tests/*.log
+screenshots/
+.artifacts/
+_raw_*.png
+*.DS_Store
+package-lock.json

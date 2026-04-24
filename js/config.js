@@ -1,0 +1,25 @@
+const GAME_CONFIG = {
+  WIDTH: 800,
+  HEIGHT: 600,
+  INITIAL_BLOCK_WIDTH: 220,
+  BLOCK_HEIGHT: 40,
+  CRANE_Y: 80,
+  CRANE_SWING_SPEED_BASE: 2200,
+  CRANE_SWING_SPEED_MIN: 900,
+  DROP_SPEED: 700,
+  PERFECT_TOLERANCE: 6,
+  MAX_PLAY_DURATION: 180000,
+  IDLE_THRESHOLD: 30000,
+  COLORS: {
+    BG_TOP: 0x1a1a2e,
+    BG_BOTTOM: 0x0f3460,
+    PERFECT: 0xf1c40f,
+    UI_TEXT: 0xffffff,
+    DANGER: 0xe74c3c,
+  },
+  MILESTONES: {
+    10: { title: 'ルーキー', color: '#3498db' },
+    30: { title: '名匠', color: '#9b59b6' },
+    50: { title: '神', color: '#f1c40f' },
+  },
+};
