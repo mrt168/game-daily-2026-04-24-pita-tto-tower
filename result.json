@@ -1,0 +1,28 @@
+{
+  "gameName": "pita-tto-tower",
+  "displayName": "ピタッとタワー",
+  "description": "揺れるクレーンからブロックを落として高く積み上げるワンタップ物理パズル。パーフェクトでコンボ爆発、階数別称号アンロック。",
+  "genre": "action",
+  "conceptTags": {
+    "genre": "action",
+    "mechanic": "stack",
+    "style": "minimal"
+  },
+  "githubUrl": "https://github.com/mrt168/game-daily-2026-04-24-pita-tto-tower",
+  "pagesUrl": "https://mrt168.github.io/game-daily-2026-04-24-pita-tto-tower/",
+  "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1faEBstr3-OoAH8XVGjhutGTVyS04ssKl4em3AxCTe3o/edit",
+  "slidesUrl": "https://docs.google.com/presentation/d/1s_38obXobR7a7JAIU0d90ATTspGORu7BDyfk7CDfUGU/edit",
+  "promoVideo": "pita-tto-tower.mp4",
+  "date": "2026-04-24",
+  "qa": {
+    "playtest": "8/8 PASS",
+    "e2e": "9/9 PASS",
+    "consoleErrors": 0,
+    "pageErrors": 0
+  },
+  "grillCouncilTop3": [
+    "リザルト画面でワンタップTwitter共有（#ピタッとタワー）",
+    "階数別称号のアンロック演出（10/30/50階）",
+    "毎回異なる色グラデーションタワー"
+  ]
+}
